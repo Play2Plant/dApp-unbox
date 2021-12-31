@@ -26,3 +26,5 @@ cd client/
 npm start
 ```
 
+## Deploy on github pages
+`npm run deploy`
