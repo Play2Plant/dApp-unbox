@@ -1,3 +1,18 @@
+## Installation
+```
+git clone --recurse-submodules git@github.com:Play2Plant/dApp-unbox.git
+cd client/
+```
+
+## Install client dependencies
+```
+npm install
+```
+
+## Start dApp
+```
+npm start
+```
 
 * Deploy on github pages
 
